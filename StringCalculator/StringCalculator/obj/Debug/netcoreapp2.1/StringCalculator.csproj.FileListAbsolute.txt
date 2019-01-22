@@ -1,0 +1,11 @@
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.deps.json
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.runtimeconfig.json
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.csprojAssemblyReference.cache
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.AssemblyInfo.cs
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.pdb
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Alfred\Desktop\StringCalc\StringCalculator\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.pdb
