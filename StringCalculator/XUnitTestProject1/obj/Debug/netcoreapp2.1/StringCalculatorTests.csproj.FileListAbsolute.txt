@@ -1,0 +1,17 @@
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculatorTests.deps.json
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculatorTests.runtimeconfig.json
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculatorTests.runtimeconfig.dev.json
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculatorTests.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculatorTests.pdb
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\bin\Debug\netcoreapp2.1\StringCalculator.pdb
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.csprojAssemblyReference.cache
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.AssemblyInfo.cs
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.csproj.CopyComplete
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.dll
+C:\Users\Ralph\Desktop\SC\StringCalculator\StringCalculator\XUnitTestProject1\obj\Debug\netcoreapp2.1\StringCalculatorTests.pdb

@@ -589,10 +589,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -851,23 +852,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alfred\\.nuget\\packages\\": {},
+    "C:\\Users\\Ralph\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alfred\\Desktop\\StringCalc\\StringCalculator\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Ralph\\Desktop\\SC\\StringCalculator\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
       "projectName": "StringCalculator",
-      "projectPath": "C:\\Users\\Alfred\\Desktop\\StringCalc\\StringCalculator\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
-      "packagesPath": "C:\\Users\\Alfred\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alfred\\Desktop\\StringCalc\\StringCalculator\\StringCalculator\\StringCalculator\\obj\\",
+      "projectPath": "C:\\Users\\Ralph\\Desktop\\SC\\StringCalculator\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
+      "packagesPath": "C:\\Users\\Ralph\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ralph\\Desktop\\SC\\StringCalculator\\StringCalculator\\StringCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alfred\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ralph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
