@@ -6,15 +6,15 @@ namespace StringCalculator
     {
         static void Main(string[] args)
         {
-            var stringCalc = new Calculator();
+            //var stringCalc = new Calculator();
 
-            string numbers = stringCalc.ReadInput();
+            ////string numbers = stringCalc.ReadInput();
 
-            int result = stringCalc.Add(numbers);
+            //int result = stringCalc.Add(numbers);
 
-            Console.WriteLine("Result: " + result);
+            //Console.WriteLine("Result: " + result);
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
